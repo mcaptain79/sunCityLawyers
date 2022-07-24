@@ -1,0 +1,25 @@
+body{
+    /*background-color: aquamarine;*/
+    background-image: url("justice-background.jpg");
+    overflow-x: hidden;
+}
+.middle{
+    position: relative;
+    left: 35%;
+    width: 30%;
+    opacity: 0.6;
+    background-color: rgb(205, 169, 238);
+    border-style: double;
+}
+.bold{
+    position: relative;
+    font-weight: bold;
+    color: rgb(25, 22, 22);
+    left: 5%;
+}
+.boldTitle{
+    position: relative;
+    font-weight: bolder;
+    color: rgb(255, 21, 68);
+    left: 5%;
+}
